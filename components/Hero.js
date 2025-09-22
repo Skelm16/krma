@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="container-tight pt-32 pb-16 text-center">
         <div className="mx-auto mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-card/60 px-3 py-1 text-xs text-muted">
           <span className="inline-block h-2 w-2 rounded-full bg-accent" />
-          KRMA – Krish's AI Agency
+          KRMA – Krish&apos;s AI Agency
         </div>
         <h1 className="mx-auto max-w-3xl text-5xl sm:text-6xl font-extrabold tracking-tight leading-tight">
           Future-Proof Your

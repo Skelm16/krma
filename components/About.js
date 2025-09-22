@@ -23,7 +23,7 @@ export default function About() {
       <div className="container-tight">
         <h2 className="text-3xl sm:text-4xl font-bold">About KRMA</h2>
         <p className="mt-4 text-muted max-w-3xl">
-          Hi, I'm Krish — the founder and sole operator of KRMA. I help businesses unlock growth with powerful AI tools that save time, capture leads, and convert customers automatically.
+          Hi, I&apos;m Krish — the founder and sole operator of KRMA. I help businesses unlock growth with powerful AI tools that save time, capture leads, and convert customers automatically.
         </p>
         
         <div className="mt-12">

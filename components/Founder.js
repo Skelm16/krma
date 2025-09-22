@@ -12,7 +12,7 @@ export default function Founder() {
               <h3 className="text-xl font-semibold">Krish Gobind Sriram</h3>
               <p className="text-muted">Founder, Owner & AI Automation Specialist</p>
               <p className="mt-3 text-muted">
-                Hi, I'm Krish — the founder and sole operator of KRMA. I help businesses unlock growth with powerful AI tools that save time, capture leads, and convert customers automatically.
+                Hi, I&apos;m Krish — the founder and sole operator of KRMA. I help businesses unlock growth with powerful AI tools that save time, capture leads, and convert customers automatically.
               </p>
             </div>
           </div>

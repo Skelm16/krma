@@ -6,7 +6,7 @@ export default function Contact() {
           <div className="flex flex-col lg:flex-row gap-8">
             <div className="flex-1">
               <p className="inline-flex items-center gap-2 rounded-full border border-border bg-card/60 px-3 py-1 text-xs text-muted">Get in touch</p>
-              <h1 className="mt-3 text-3xl sm:text-4xl font-bold">Let's talk about your AI automation</h1>
+              <h1 className="mt-3 text-3xl sm:text-4xl font-bold">Let&apos;s talk about your AI automation</h1>
               <p className="mt-2 text-muted">Share a few details and Krish will follow up for a quick consultation. Typically within 1 business day.</p>
 
               <form className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -16,7 +16,7 @@ export default function Contact() {
                 </label>
                 <label className="block">
                   <span className="text-sm">Business Name</span>
-                  <input className="mt-1 w-full rounded-md bg-white/5 border border-border px-3 py-2" placeholder="KRMA — Krish's AI Agency" />
+                  <input className="mt-1 w-full rounded-md bg-white/5 border border-border px-3 py-2" placeholder="KRMA — Krish&apos;s AI Agency" />
                 </label>
                 <label className="block">
                   <span className="text-sm">Email</span>
