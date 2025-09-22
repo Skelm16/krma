@@ -31,7 +31,7 @@ export default function Contact() {
                   <textarea rows={4} className="mt-1 w-full rounded-md bg-white/5 border border-border px-3 py-2" placeholder="Tell us about your goals and timeline." />
                 </label>
                 <div className="sm:col-span-2 flex items-center justify-between">
-                  <p className="text-xs text-muted">By submitting, you agree to our privacy policy. We'll never share your info.</p>
+                  <p className="text-xs text-muted">By submitting, you agree to our privacy policy. We&apos;ll never share your info.</p>
                   <button type="button" className="btn-primary">Send message</button>
                 </div>
               </form>

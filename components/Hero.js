@@ -20,7 +20,7 @@ export default function Hero() {
           and 24/7.
         </p>
         <div className="mt-8 flex items-center justify-center gap-4">
-          <Link href="/contact" className="btn-primary">Let's Talk</Link>
+          <Link href="/contact" className="btn-primary">Let&apos;s Talk</Link>
           <a href="#services" className="btn-secondary">View Services</a>
         </div>
         <p className="mt-6 text-xs text-muted">Work directly with Krish — no handoffs, just results in weeks.</p>
